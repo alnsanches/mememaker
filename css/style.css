@@ -6,7 +6,7 @@
 
 body {
     background-color: whitesmoke;
-    background-image: url('/images/bg.png');
+    background-image: url('./images/bg.png');
     background-size: cover;
     background-repeat: no-repeat;
     font-family: sans-serif;
