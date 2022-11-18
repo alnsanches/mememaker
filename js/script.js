@@ -77,10 +77,6 @@ async function mapImageList() {
             "path": "pictures/grandmother.png"
         },
         {
-            "name": "Jack Sparrow",
-            "path": "pictures/jack-sparrow.jpg"
-        },
-        {
             "name": "Jay Jay Plane",
             "path": "pictures/jay-jay-plane.png"
         },
